@@ -1,0 +1,6 @@
+---
+homepage: https://www.linkedin.com/in/jonah-onyejekwe/
+documentation: https://github.com/jonah-onyejekwe/heap-analytics-tag-template
+versions:
+  - sha: 2b7bb9ca9a94accba332caa7e52f617a42a9b3b2
+    changeNotes: Initial release.
